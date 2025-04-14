@@ -61,4 +61,4 @@ jobs:
         uses: actions/upload-artifact@v4.3.1
         with:
           name: SFA
-          path: clients/android/app/build/outputs/apk/other/release/
+          path: clients/android/app/build/outputs/apk/other/release/*v8a*.apk
